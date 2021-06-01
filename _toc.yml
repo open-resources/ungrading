@@ -1,0 +1,41 @@
+- file: about/home
+
+- part: About Us
+  chapters:
+    - file: about/about
+      title: About this Project
+
+- part: Ungrading
+  chapters:
+    - file: about/intro
+      title: Introduction to Ungrading
+    - file: about/annotatedbib
+      title: Annotated Bibliography    
+
+- part: Showcase
+  chapters:
+    - file: showcase/biology/intro
+      title: Examples from Biology
+    - file: showcase/physics/intro
+      title: Examples from Physics
+    - file: showcase/computerscience/intro
+      title: Examples from CS
+    - file: showcase/datascience/intro
+      title: Examples from DS
+# - part: Part 1 - Electrostatics
+#   chapters:
+#     - file: class/week02/week02_summary
+#       title: Lecture 2 - Electric Charges
+#       sections:
+#         - file: class/week02/videos
+#         - file: class/week02/lecture
+#         # - file: class/week02/readings
+#         # - file: class/week02/homework
+#         # - file: class/week02/test
+#         # - file: class/week02/lab
+#         # - file: class/week02/learninglogs
+
+# - part: Course Feedback
+#   chapters:
+#     - file: about/feedback
+#       title: Anonymous Feedback Form
