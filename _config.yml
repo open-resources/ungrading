@@ -5,6 +5,9 @@ logo: images/logo.jpg
 copyright: ""
 exclude_patterns: ["LICENSE.md", "README.md","files/*"]
 
+bibtex_bibfiles:
+  - about/citations.bib
+
 latex:
   latex_documents:
     targetname: book.tex
