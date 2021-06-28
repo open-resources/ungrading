@@ -27,7 +27,8 @@ sphinx:
   config:
     html_show_copyright: false
     html_extra_path: ['files']
-
+    bibtex_reference_style: author_year
+    
 myst_enable_extensions:
   - amsmath
   - colon_fence
@@ -37,6 +38,5 @@ myst_enable_extensions:
   - html_image
   - linkify
   - replacements
-  - smartquotes
   - substitution
   - tasklist
